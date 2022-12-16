@@ -4,7 +4,7 @@ A c++ project which can create and search for client id and book hotel room, res
 The main.cpp file holds all the codes and the other 3 text file and 1 csv file has been used by the main.cpp file.
 
 ## Setup and Installation
-Fork and Clone this project. Make sure you have git installed. On the terminal, navigate to your workspace directory and then run it in your code editors's terminal
+Fork and Clone this project. Make sure you have git installed. On the terminal, navigate to your workspace directory and then run it. The output will be produced in the terminal itself
 
 Happy Coding :)
 ​
